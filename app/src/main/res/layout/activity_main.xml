@@ -12,6 +12,7 @@
         android:id="@+id/draweeView"
         android:layout_width="match_parent"
         android:layout_height="230dp"
+        app:actualImageScaleType="centerCrop"
         android:fitsSystemWindows="true" />
 
     <!--<ImageView-->
